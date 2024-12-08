@@ -10,7 +10,7 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
 + **A video showing the assembly of the printer is available here:** <br />
 
-<img src="https://img.youtube.com/vi/0U_K4j7AWgo/maxresdefault.jpg" width="1440" "https://www.youtube.com/watch?v=0U_K4j7AWgo">)
+**There is a YouTube video who explain the assembly:** https://www.youtube.com/watch?v=0U_K4j7AWgo
 
 
 **1. Introduction** <br />
@@ -23,9 +23,9 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 ## 2. Technical details of the MSLA Cyclop printer
 ## 3. Technical details of the Helios Curing station
 <p align="center">
-<img src="https://github.com/user-attachments/assets/41685379-e277-427c-be89-e1db5b1f4d5a" height="500">
-<img src="https://github.com/user-attachments/assets/250de710-848e-4e12-8a31-38375e860e9a" height="500">
-<img src="https://github.com/user-attachments/assets/0f837685-8e89-4839-b4cf-028d2ccd4f20" height="500">
+<img src="https://github.com/user-attachments/assets/41685379-e277-427c-be89-e1db5b1f4d5a" height="300">
+<img src="https://github.com/user-attachments/assets/250de710-848e-4e12-8a31-38375e860e9a" height="300">
+<img src="https://github.com/user-attachments/assets/0f837685-8e89-4839-b4cf-028d2ccd4f20" height="300">
 </p>
 
 ## 4. Pictures of my first prints
