@@ -6,7 +6,7 @@
 If you like my work, you can help me by buying me a coffee, thank you! *https://buymeacoffee.com/guillaumehy or
  [paypal.me/guillaumehaouy](https://www.paypal.com/paypalme/guillaumehaouy)* <br />
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
-+ **A video showing the assembly of the printer is available here: [https://www.youtube.com/watch?v=0U_K4j7AWgo](https://www.youtube.com/watch?v=0U_K4j7AWgo)** <br />
++ **A video showing the assembly of the printer is available here:** <br />
 
 [![Video](https://img.youtube.com/vi/0U_K4j7AWgo/maxresdefault.jpg)](https://www.youtube.com/watch?v=0U_K4j7AWgo)
 
