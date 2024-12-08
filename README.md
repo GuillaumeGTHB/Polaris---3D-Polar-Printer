@@ -1,4 +1,7 @@
 # Polaris - 3D Polar Printer !
+**A video showing the assembly of the printer is available here: https://www.youtube.com/watch?v=0U_K4j7AWgo** <br />
+**Print bed size needed: 210x240mm**
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/653f098b-df13-4ed1-8b3d-9624685d76dd" height="300">
 <img src="https://github.com/user-attachments/assets/0123fcfb-5abf-4dec-82e5-779ef4325dca" height="300">
@@ -8,8 +11,6 @@
 If you like my work, you can help me by buying me a coffee, thank you! *https://buymeacoffee.com/guillaumehy or
  [paypal.me/guillaumehaouy](https://www.paypal.com/paypalme/guillaumehaouy)* <br />
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
-
-**A video showing the assembly of the printer is available here: https://www.youtube.com/watch?v=0U_K4j7AWgo** <br />
 
 **Step files are include !**
 <p align="center">
