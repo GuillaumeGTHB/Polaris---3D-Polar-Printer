@@ -44,6 +44,9 @@ Enjoy ;)*
 <p align="center">
 <img src="https://github.com/user-attachments/assets/564c6e20-a4ff-499f-8b39-b78e679aedb7" height="300">
 <img src="https://github.com/user-attachments/assets/a77492a0-7f12-4c00-a5cc-716b35245c78" height="300">
+<img src="https://github.com/user-attachments/assets/1491da8d-fffd-4b72-a273-c8fc766768c8" height="300">
+<img src="https://github.com/user-attachments/assets/6d138421-f7be-4df7-970f-988cfc5223e4" height="300">
+<img src="https://github.com/user-attachments/assets/e5d28886-c5e4-403f-b8a5-57f4ab665b72" height="300">
 </p>
 
 ## 5. Schematic
