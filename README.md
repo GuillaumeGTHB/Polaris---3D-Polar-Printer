@@ -1,4 +1,4 @@
-# MSLA Cyclop Printer !
+# Polaris - 3D Polar Printer !
 <p align="center">
 <img src="https://github.com/user-attachments/assets/74617bea-9438-40a1-9b9b-2046781e071e" height="250">
 <img src="https://github.com/user-attachments/assets/457f03d9-dadc-47b4-896c-9f4e8908a603" height="250">
@@ -8,8 +8,7 @@
 If you like my work, you can help me by buying me a coffee, thank you! *https://buymeacoffee.com/guillaumehy or
  [paypal.me/guillaumehaouy](https://www.paypal.com/paypalme/guillaumehaouy)* <br />
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
-+ **A guide in .pdf format (English language, 64 pages for version 1.1) is included, it is a must-read, everything is explained in detail !** <br />
-+ **NanoDLP is too huge for this repertory, you can download it at : https://www.nano3dtech.com/nanodlp-download/** <br />
++ **A video showing the assembly of the printer is available here: https://youtu.be/0U_K4j7AWgo?si=jM9XJO5SIVebnpOb** <br />
 
 **1. Introduction** <br />
 **2. Technical details of the MSLA Cyclop printer** <br />
