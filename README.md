@@ -26,12 +26,12 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 Enjoy ;)*
 
 ## 2. Technical details of the Polaris 3D Polar Printer :
--Print area : 150x150x105mm <br />
--Motherboard: MKS Sbase v1.3 or SKR E3 v3.0 <br />
--Screen: LCD12864 or TFT35 <br />
--Speeds: around 40mm/s, not tested above <br />
--Price: around 100$, much less if you already have equipment <br />
--No heatbed ! <br />
++Print area: 150x150x105mm <br />
++Motherboard: MKS Sbase v1.3 or SKR E3 v3.0 <br />
++Screen: LCD12864 or TFT35 <br />
++Speeds: around 40mm/s, not tested above <br />
++Price: around 100$, much less if you already have equipment <br />
++No heatbed ! <br />
 
 ## 3. Marlin logos
 <p align="center">
