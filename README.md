@@ -1,8 +1,6 @@
 # Polaris - 3D Polar Printer !
 <p align="center">
 <img src="https://github.com/user-attachments/assets/74617bea-9438-40a1-9b9b-2046781e071e" height="250">
-<img src="https://github.com/user-attachments/assets/457f03d9-dadc-47b4-896c-9f4e8908a603" height="250">
-<img src="https://github.com/user-attachments/assets/b77a59d2-0fb1-4acb-b26e-1639aca2ed38" height="250">
 </p>
 
 If you like my work, you can help me by buying me a coffee, thank you! *https://buymeacoffee.com/guillaumehy or
@@ -10,7 +8,7 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
 + **A video showing the assembly of the printer is available here: [https://www.youtube.com/watch?v=0U_K4j7AWgo](https://www.youtube.com/watch?v=0U_K4j7AWgo)** <br />
 
-<img src="[![Video](https://img.youtube.com/vi/0U_K4j7AWgo/maxresdefault.jpg)](https://www.youtube.com/watch?v=0U_K4j7AWgo)" height="600">
+[![Video](https://img.youtube.com/vi/0U_K4j7AWgo/maxresdefault.jpg)](https://www.youtube.com/watch?v=0U_K4j7AWgo)
 
 **1. Introduction** <br />
 **2. Technical details of the MSLA Cyclop printer** <br />
@@ -45,9 +43,6 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 + → more details in the .pdf guide <br />
 <p align="center">
 <img src="https://github.com/user-attachments/assets/53ec7daf-cf2d-4e98-b424-542e2585f94f" height="200">
-<img src="https://github.com/user-attachments/assets/a0f92b43-b76a-41fa-93a0-9a5811a3f5d8" height="200">
-<img src="https://github.com/user-attachments/assets/8c0bea5d-ff4a-4f5c-84ea-1a8b501b7c64" height="200">
-<img src="https://github.com/user-attachments/assets/5917b8b9-ff56-4c93-b1d1-bcd5ddffee13" height="200">
 </p>
 
 ## 3. Technical details of the Helios Curing station <br />
@@ -59,20 +54,14 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 + → more details in the .pdf guide <br />
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a8a1f55d-ca56-4a80-a876-c9ba78984eb0" height="200">
-<img src="https://github.com/user-attachments/assets/0387f0f3-5e7a-4226-9eaa-10f27f64a06d" height="200">
-<img src="https://github.com/user-attachments/assets/8142ecc2-d189-49be-bcdb-65848cd4500d" height="200">
-<img src="https://github.com/user-attachments/assets/843ade4d-63f7-4661-aa92-d4ba5940f2f0" height="200">
 </p>
 
 ## 4. Pictures of my first prints
 <p align="center">
 <img src="https://github.com/user-attachments/assets/70746423-bef3-402d-8ceb-47101cd5b7f7" height="200">
-<img src="https://github.com/user-attachments/assets/1b9234ab-348c-43dd-a544-7aba78441b1b" height="200">
-<img src="https://github.com/user-attachments/assets/f74c0e93-50e7-4b22-a4e4-2b7280c5ca26" height="200">
 </p>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f4f12f99-195d-4b28-a079-71f9ce6a56ae" height="200">
-<img src="https://github.com/user-attachments/assets/67a4b0e2-e87b-48a4-a912-87b0bbee24ee" height="200">
 </p>
 
 ## 5. Schematics
