@@ -11,6 +11,7 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 + **A video showing the assembly of the printer is available here:** <br />
 
 [![Video](https://img.youtube.com/vi/0U_K4j7AWgo/maxresdefault.jpg)](https://www.youtube.com/watch?v=0U_K4j7AWgo)
+<img src="https://img.youtube.com/vi/0U_K4j7AWgo/maxresdefault.jpg" height="300">
 
 **1. Introduction** <br />
 **2. Technical details of the MSLA Cyclop printer** <br />
