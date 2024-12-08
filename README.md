@@ -10,9 +10,7 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
 + **A video showing the assembly of the printer is available here: [https://www.youtube.com/watch?v=0U_K4j7AWgo](https://www.youtube.com/watch?v=0U_K4j7AWgo)** <br />
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0U_K4j7AWgo/0.jpg)](https://www.youtube.com/watch?v=0U_K4j7AWgo)
-
-![InShot_20241208_121714160](https://www.youtube.com/watch?v=0U_K4j7AWgo)
+![InShot_20241208_121714160](https://github.com/user-attachments/assets/21f84db5-9a70-4d49-8e1d-bcd705adf356)](https://www.youtube.com/watch?v=0U_K4j7AWgo)
 
 
 **1. Introduction** <br />
