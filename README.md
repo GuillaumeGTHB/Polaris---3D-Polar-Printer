@@ -1,6 +1,8 @@
 # Polaris - 3D Polar Printer !
 <p align="center">
-<img src="https://github.com/user-attachments/assets/74617bea-9438-40a1-9b9b-2046781e071e" height="250">
+<img src="https://github.com/user-attachments/assets/23042a29-54d9-4936-9653-b3cac563586c" height="250">
+<img src="https://github.com/user-attachments/assets/bc10c7b6-a3ed-4e56-9d4c-09e971e4715d" height="250">
+<img src="https://github.com/user-attachments/assets/8a72f91b-b6c6-44a1-9244-d5ad1c24c213" height="250">
 </p>
 
 If you like my work, you can help me by buying me a coffee, thank you! *https://buymeacoffee.com/guillaumehy or
