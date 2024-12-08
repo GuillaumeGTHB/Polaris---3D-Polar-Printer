@@ -10,6 +10,8 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
 + **A video showing the assembly of the printer is available here: https://youtu.be/0U_K4j7AWgo?si=jM9XJO5SIVebnpOb** <br />
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jM9XJO5SIVebnpOb/0.jpg)](https://www.youtube.com/watch?v=jM9XJO5SIVebnpOb)
+
 **1. Introduction** <br />
 **2. Technical details of the MSLA Cyclop printer** <br />
 **3. Technical details of the Helios Curing station** <br />
