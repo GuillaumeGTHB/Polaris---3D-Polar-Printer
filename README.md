@@ -5,6 +5,12 @@
 <img src="https://github.com/user-attachments/assets/8a72f91b-b6c6-44a1-9244-d5ad1c24c213" height="300">
 </p>
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/653f098b-df13-4ed1-8b3d-9624685d76dd" height="300">
+<img src="https://github.com/user-attachments/assets/0123fcfb-5abf-4dec-82e5-779ef4325dca" height="300">
+<img src="https://github.com/user-attachments/assets/3af40da8-7d7b-4fb3-b76d-54b072d3c041" height="300">
+</p>
+
 If you like my work, you can help me by buying me a coffee, thank you! *https://buymeacoffee.com/guillaumehy or
  [paypal.me/guillaumehaouy](https://www.paypal.com/paypalme/guillaumehaouy)* <br />
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
