@@ -17,62 +17,12 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 **3. Technical details of the Helios Curing station** <br />
 **4. Pictures of my first prints (print tests take a lot of time, they are not yet 100% optimal)** <br />
 **5. Schematics**
-- A. Cyclop - 3D Printer
-- B. Helios - Curing Station
 
 ## 1. Introduction
-+ **Be careful! The resin severely attacks the printed plastic, as explained in the guide, you will need to apply a protective varnish on the tank as well as on the printing plate** <br />
-+ Here you will find all the files and instructions on my homemade MSLA Cyclop v1.3 resin printer (and its Helios curing station) ! <br />
-The CAD files (.step format) are available, the appropriate GRBl firmware as well as the NanoDLP version that I used. <br />
-<p align="center">
-<img src="https://github.com/user-attachments/assets/e25e3751-2530-490f-95a1-e939ee2248e4" height="200">
-<img src="https://github.com/user-attachments/assets/5cf03c4f-9522-401a-a9d8-465e7685c4e1" height="200"> 
-<img src="https://github.com/user-attachments/assets/9625eb58-81cc-498f-bc12-b86f50c8e287" height="200">
-<img src="https://github.com/user-attachments/assets/9b24b785-bc67-4cf2-a9b0-55bd476916e7" height="200"> <br />
-</p>
-
 ## 2. Technical details of the MSLA Cyclop printer <br />
-+ Standalone printer (integrated slicer, just place an .stl file on a USB key) with Nextion 3.2" touch screen
-+ Ultra-rigid structure in 2020 aluminum profiles
-+ Ultra resolution axis ! Ball screw and two linear ball axes MGN12C
-+ Electronics: Raspberry Pi 3B+ / Arduino Uno + Shield CNC v3 + A4988 driver (NanoDLP firmware for the RPI3B+, GRBL for the Arduino)<br />
-+ Screen: 2k, 5.5" 1440p x 2560p <br />
-+ Resolution: 47.25µm (0.04725mm) <br />
-+ Printable area: 125x67x165mm <br />
-+ UV power: 38W (adjustable in PWM with the M3 S1to1000 command) <br />
-+ Approximate price: $450 <br />
-+ Power supply: 12V 8A <br />
-+ → more details in the .pdf guide <br />
-<p align="center">
-<img src="https://github.com/user-attachments/assets/53ec7daf-cf2d-4e98-b424-542e2585f94f" height="200">
-</p>
-
 ## 3. Technical details of the Helios Curing station <br />
-+ Approximate power: 15W <br />
-+ Turntable plate with adjustable timer <br />
-+ Upward airflow (two 3010 fans: 30x10mm) <br />
-+ Approximate price: $30 <br />
-+ Minimum power supply: 12V 2A <br />
-+ → more details in the .pdf guide <br />
-<p align="center">
-<img src="https://github.com/user-attachments/assets/a8a1f55d-ca56-4a80-a876-c9ba78984eb0" height="200">
-</p>
-
 ## 4. Pictures of my first prints
-<p align="center">
-<img src="https://github.com/user-attachments/assets/70746423-bef3-402d-8ceb-47101cd5b7f7" height="200">
-</p>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/f4f12f99-195d-4b28-a079-71f9ce6a56ae" height="200">
-</p>
-
 ## 5. Schematics
-### A. Cyclop
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1831a42f-c823-4332-a965-91973952d14e" height="500">
-</p>
-
-### B. Helios
-<p align="center">
-<img src="https://github.com/user-attachments/assets/a6e83be7-2d55-465d-b2e3-fcb1e17669f9" height="500">
+<img src="https://github.com/user-attachments/assets/85a7c307-c770-4d10-a7c3-efe78ac32d9a" height="500">
 </p>
