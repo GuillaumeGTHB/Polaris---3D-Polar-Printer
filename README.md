@@ -12,6 +12,9 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0U_K4j7AWgo/0.jpg)](https://www.youtube.com/watch?v=0U_K4j7AWgo)
 
+![InShot_20241208_121714160](https://www.youtube.com/watch?v=0U_K4j7AWgo)
+
+
 **1. Introduction** <br />
 **2. Technical details of the MSLA Cyclop printer** <br />
 **3. Technical details of the Helios Curing station** <br />
