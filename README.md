@@ -9,7 +9,7 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
  [paypal.me/guillaumehaouy](https://www.paypal.com/paypalme/guillaumehaouy)* <br />
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
 
-**A video showing the assembly of the printer is available here:https://www.youtube.com/watch?v=0U_K4j7AWgo** <br />
+**A video showing the assembly of the printer is available here: https://www.youtube.com/watch?v=0U_K4j7AWgo** <br />
 
 **Step files are include !**
 <p align="center">
@@ -19,15 +19,16 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 </p>
 
 ## 1. Introduction
-*Ever since I discovered polar printers, they have always intrigued me. I had a lot of trouble understanding how movement was done in a polar environment, so I decided to make one! I based my design on the use of old 3D printing parts, in order to obtain an inexpensive machine. The other constraint was being able to print everything on my 210x240mm plate, which wasn't very easy, especially for the chassis... Anyway, it was supposed to be a small personal project but when I presented it on Reddit, so many people were interested that here are all of my files! Enjoy ;)*
+*Ever since I discovered polar printers, they have always intrigued me. I had a lot of trouble understanding how movement was done in a polar environment, so I decided to make one! I based my design on the use of old 3D printing parts, in order to obtain an inexpensive machine. The other constraint was being able to print everything on my 210x240mm plate, which wasn't very easy, especially for the chassis... Anyway, it was supposed to be a small personal project but when I presented it on Reddit, so many people were interested that here are all of my files! <br />
+Enjoy ;)*
 
 ## 2. Technical details of the Polaris 3D Polar Printer :
--Print area : 150x150x105mm
--Motherboard: MKS Sbase v1.3 or SKR E3 v3.0
--Screen: LCD12864 or TFT35
--Speeds: around 40mm/s, not tested above
--Price: around 100$, much less if you already have equipment
--No heatbed !
+-Print area : 150x150x105mm <br />
+-Motherboard: MKS Sbase v1.3 or SKR E3 v3.0 <br />
+-Screen: LCD12864 or TFT35 <br />
+-Speeds: around 40mm/s, not tested above <br />
+-Price: around 100$, much less if you already have equipment <br />
+-No heatbed ! <br />
 
 ## 3. Marlin logo
 <p align="center">
