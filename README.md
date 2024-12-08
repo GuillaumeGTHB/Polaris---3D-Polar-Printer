@@ -20,9 +20,20 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 **5. Schematics**
 
 ## 1. Introduction
-## 2. Technical details of the MSLA Cyclop printer <br />
-## 3. Technical details of the Helios Curing station <br />
+## 2. Technical details of the MSLA Cyclop printer
+## 3. Technical details of the Helios Curing station
+<p align="center">
+<img src="https://github.com/user-attachments/assets/41685379-e277-427c-be89-e1db5b1f4d5a" height="500">
+<img src="https://github.com/user-attachments/assets/250de710-848e-4e12-8a31-38375e860e9a" height="500">
+<img src="https://github.com/user-attachments/assets/0f837685-8e89-4839-b4cf-028d2ccd4f20" height="500">
+</p>
+
 ## 4. Pictures of my first prints
+<p align="center">
+<img src="https://github.com/user-attachments/assets/564c6e20-a4ff-499f-8b39-b78e679aedb7" height="300">
+<img src="https://github.com/user-attachments/assets/a77492a0-7f12-4c00-a5cc-716b35245c78" height="300">
+</p>
+
 ## 5. Schematics
 <p align="center">
 <img src="https://github.com/user-attachments/assets/85a7c307-c770-4d10-a7c3-efe78ac32d9a" height="500">
