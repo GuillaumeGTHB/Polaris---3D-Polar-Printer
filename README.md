@@ -10,8 +10,8 @@
 <img src="https://github.com/user-attachments/assets/3af40da8-7d7b-4fb3-b76d-54b072d3c041" height="300">
 </p>
 
-If you like my work, you can help me by buying me a coffee, thank you! *https://buymeacoffee.com/guillaumehy or
- [paypal.me/guillaumehaouy](https://www.paypal.com/paypalme/guillaumehaouy)* <br />
+If you like my work, you can help me by buying me a coffee, thank you! <br />
+*https://buymeacoffee.com/guillaumehy or [paypal.me/guillaumehaouy](https://www.paypal.com/paypalme/guillaumehaouy)* <br />
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
 
 **Step files are include !**
