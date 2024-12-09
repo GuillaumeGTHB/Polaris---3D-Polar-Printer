@@ -52,11 +52,11 @@ Enjoy ;)*
 
 ## 5. Pictures of Normal & Vase mode (print in center is available, but no pictures yet)
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1491da8d-fffd-4b72-a273-c8fc766768c8" height="250">
-<img src="https://github.com/user-attachments/assets/6d138421-f7be-4df7-970f-988cfc5223e4" height="250">
-<img src="https://github.com/user-attachments/assets/e5d28886-c5e4-403f-b8a5-57f4ab665b72" height="250">
- <img src="https://github.com/user-attachments/assets/564c6e20-a4ff-499f-8b39-b78e679aedb7" height="250">
-<img src="https://github.com/user-attachments/assets/a77492a0-7f12-4c00-a5cc-716b35245c78" height="250">
+<img src="https://github.com/user-attachments/assets/1491da8d-fffd-4b72-a273-c8fc766768c8" height="275">
+<img src="https://github.com/user-attachments/assets/6d138421-f7be-4df7-970f-988cfc5223e4" height="275">
+<img src="https://github.com/user-attachments/assets/e5d28886-c5e4-403f-b8a5-57f4ab665b72" height="275">
+ <img src="https://github.com/user-attachments/assets/564c6e20-a4ff-499f-8b39-b78e679aedb7" height="275">
+<img src="https://github.com/user-attachments/assets/a77492a0-7f12-4c00-a5cc-716b35245c78" height="275">
 </p>
 
 ## 6. Schematic
