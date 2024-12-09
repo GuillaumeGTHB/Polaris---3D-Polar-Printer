@@ -25,7 +25,13 @@ If you like my work, you can help me by buying me a coffee, thank you! <br />
 *Ever since I discovered polar printers, they have always intrigued me. I had a lot of trouble understanding how movement was done in a polar environment, so I decided to make one! I based my design on the use of old 3D printing parts, in order to obtain an inexpensive machine. The other constraint was being able to print everything on my 210x240mm plate, which wasn't very easy, especially for the chassis... Anyway, it was supposed to be a small personal project but when I presented it on Reddit, so many people were interested that here are all of my files! <br />
 Enjoy ;)*
 
-## 2. Technical details of the Polaris 3D Polar Printer :
+## **Bill of Materials (BOM):**
+**<ins>BOM:</ins>**
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d678bab0-3ee1-457a-81a3-382625dfad10" height="400">
+</p>
+
+## 3. Technical details of the Polaris 3D Polar Printer :
 + Print area: 150x150x105mm <br />
 + Motherboard: MKS Sbase v1.3 or SKR E3 v3.0 <br />
 + Screen: LCD12864 or TFT35 <br />
@@ -33,19 +39,14 @@ Enjoy ;)*
 + Price: around 100$, much less if you already have equipment <br />
 + No heatbed ! <br />
 
-**<ins>BOM:</ins>**
-<p align="center">
-<img src="https://github.com/user-attachments/assets/d678bab0-3ee1-457a-81a3-382625dfad10" height="400">
-</p>
-
-## 3. Marlin logos
+## 4. Marlin logos
 <p align="center">
 <img src="https://github.com/user-attachments/assets/41685379-e277-427c-be89-e1db5b1f4d5a" height="300">
 <img src="https://github.com/user-attachments/assets/250de710-848e-4e12-8a31-38375e860e9a" height="300">
 <img src="https://github.com/user-attachments/assets/0f837685-8e89-4839-b4cf-028d2ccd4f20" height="300">
 </p>
 
-## 4. Pictures of Normal & Vase mode (print in center is available, but no pictures yet)
+## 5. Pictures of Normal & Vase mode (print in center is available, but no pictures yet)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/1491da8d-fffd-4b72-a273-c8fc766768c8" height="300">
 <img src="https://github.com/user-attachments/assets/6d138421-f7be-4df7-970f-988cfc5223e4" height="300">
@@ -54,7 +55,7 @@ Enjoy ;)*
 <img src="https://github.com/user-attachments/assets/a77492a0-7f12-4c00-a5cc-716b35245c78" height="300">
 </p>
 
-## 5. Schematic
+## 6. Schematic
 <p align="center">
 <img src="https://github.com/user-attachments/assets/85a7c307-c770-4d10-a7c3-efe78ac32d9a" height="500">
 </p>
