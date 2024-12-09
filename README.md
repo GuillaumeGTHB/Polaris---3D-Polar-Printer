@@ -1,6 +1,7 @@
 # Polaris - 3D Polar Printer !
 **A video showing the assembly of the printer is available here:**
 + **https://www.youtube.com/watch?v=0U_K4j7AWgo**<br />
+
 **Videos of normal & vase mode here:**
 + **https://www.youtube.com/shorts/QpnZfWZlSms**<br />
 + **https://www.youtube.com/shorts/CVd2ITZNg2Q**<br />
