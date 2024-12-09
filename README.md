@@ -33,9 +33,9 @@ Enjoy ;)*
 + Price: around 100$, much less if you already have equipment <br />
 + No heatbed ! <br />
 
-**BOM:**
+**<ins>BOM:</ins>**
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a10f7901-a8ea-4f11-b415-0ed1db0595a8" height="400">
+<img src="https://github.com/user-attachments/assets/d678bab0-3ee1-457a-81a3-382625dfad10" height="400">
 </p>
 
 ## 3. Marlin logos
