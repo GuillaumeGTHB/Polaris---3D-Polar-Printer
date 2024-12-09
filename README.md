@@ -25,7 +25,7 @@ If you like my work, you can help me by buying me a coffee, thank you! <br />
 *Ever since I discovered polar printers, they have always intrigued me. I had a lot of trouble understanding how movement was done in a polar environment, so I decided to make one! I based my design on the use of old 3D printing parts, in order to obtain an inexpensive machine. The other constraint was being able to print everything on my 210x240mm plate, which wasn't very easy, especially for the chassis... Anyway, it was supposed to be a small personal project but when I presented it on Reddit, so many people were interested that here are all of my files! <br />
 Enjoy ;)*
 
-## **2. Bill of Materials (BOM):**
+## 2. Bill of Materials (BOM):
 **<ins>BOM:</ins>**
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d678bab0-3ee1-457a-81a3-382625dfad10" height="400">
